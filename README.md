@@ -19,7 +19,6 @@ Popüler yayıncılara örnekler:
 
 _Aaron Swartz'ın anısına..._
 
-**Mozilla Add-on**: https://addons.mozilla.org/en-US/firefox/addon/sci-hub-now/<br>
-**Chrome Web Store**: https://chrome.google.com/webstore/detail/sci-hub-now/jnlldhggdfnbabnjbgahoabglgmjbhdl
+**Mozilla Add-on**: https://addons.mozilla.org/tr/firefox/addon/sci-hub-se-now/<br>
 
 ![Mozilla Add-on](https://img.shields.io/amo/v/sci-hub-se-now)
